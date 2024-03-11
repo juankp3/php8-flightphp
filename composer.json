@@ -1,0 +1,17 @@
+{
+    "name": "juankuga/php8",
+    "autoload": {
+        "psr-4": {
+            "Juankuga\\Php8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Kuga",
+            "email": "juankp3@gmail.com"
+        }
+    ],
+    "require": {
+        "flightphp/core": "^3.6"
+    }
+}
